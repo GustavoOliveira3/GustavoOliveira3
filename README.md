@@ -1,4 +1,3 @@
-[![banner](./banner.png)](https://github.com/seu-usuario)
 
   <p align="center">
    <a href="https://code.visualstudio.com/">
