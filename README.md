@@ -29,7 +29,10 @@
    </a>
    <a href="https://www.mongodb.com/">
        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/>
-   </a>                                                                                                                                                                                                                                     
+   </a> 
+   <a href="https://www.php.net/">
+       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" height="40"/>
+   </a>                                                                                          
 </p>
 
 <h4 align="center">
