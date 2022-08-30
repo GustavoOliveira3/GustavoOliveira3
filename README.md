@@ -1,42 +1,42 @@
 
   <p align="center">
-   <a href="https://code.visualstudio.com/">
+   <a href="https://code.visualstudio.com/" title="VsCode">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/>
    </a>
-    <a href="https://www.debian.org/index.pt.html">
+    <a href="https://www.debian.org/index.pt.html" title="Debian">
        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" width="40" height="40"/>
    </a>
-   <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML">
+   <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML" title="HTML5">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" alt="html5" width="40" height="40"/>
    </a>
-   <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS">
+   <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS" title="CSS">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" alt="css3" width="40" height="40"/>
    </a>
-   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="Javascript">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
    </a>
-   <a href="https://laravel.com/">
+   <a href="https://laravel.com/" title="Laravel Framework">
        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" width="40" height="40"/>
    </a>
-   <a href="https://laravel.com/">
+   <a href="https://codeigniter.com/" title="Codeigniter Framework">
        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codeigniter/codeigniter-plain.svg" width="40" height="40"/>
    </a>
-   <a href="https://nodejs.org">
+   <a href="https://nodejs.org" title="Node.js">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/>
    </a>
-   <a href="https://developer.oracle.com/java/">
+   <a href="https://developer.oracle.com/java/" title="Java">
        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/>
    </a>
-   <a href="https://www.mysql.com/>
+   <a href="https://www.mysql.com/ title="MySql">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/>
    </a>
-   <a href="https://git-scm.com/">
+   <a href="https://git-scm.com/" title="GIT">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="40" height="40"/>
    </a>
-   <a href="https://www.mongodb.com/">
+   <a href="https://www.mongodb.com/" title="MongoDB">
        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/>
    </a> 
-   <a href="https://www.php.net/">
+   <a href="https://www.php.net/" title="Php">
        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" height="40"/>
    </a>                                                                                          
 </p>
