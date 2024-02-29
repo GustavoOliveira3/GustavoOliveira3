@@ -42,7 +42,7 @@
 </p>
 
 <h4 align="center">
-<h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">Oi meu nome é Gustavo Oliveira</h1></img>
+<h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">Hi! my name is Gustavo Oliveira</h1></img>
 
 <p align="center">
   <a href="https://github.com/GustavoOliveira3">
@@ -72,7 +72,7 @@
 </a>
 </p>
 
-<h3 align="center">Trabalhando em:</h3>
+<h3 align="center">Actualy working on:</h3>
 
 <p align="center">
   <a href="https://github.com/GustavoOliveira3/news.here">
@@ -84,7 +84,7 @@
   </a>
 </p>
 
-<h3 align="center">Sobre mim:</h3>
+<h3 align="center">About me:</h3>
 
 <p align="center">
   <a href="https://instagram.com/gustoliveira__/">
